@@ -1,0 +1,170 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 924
+  },
+  {
+    "path": "SITE_EXPORT_NOTES.md",
+    "bytes": 754
+  },
+  {
+    "path": "app.js",
+    "bytes": 5668
+  },
+  {
+    "path": "assets/images/amber-procession-in-a-mumbai-residence.png",
+    "bytes": 2003384
+  },
+  {
+    "path": "assets/images/bengal-blue-hour-dining-gallery.png",
+    "bytes": 2026131
+  },
+  {
+    "path": "assets/images/bombay-watercolours-on-a-celadon-wall.png",
+    "bytes": 2111009
+  },
+  {
+    "path": "assets/images/elegant-mumbai-home-with-indian-narrative-painting.png",
+    "bytes": 2237384
+  },
+  {
+    "path": "assets/images/four-landscapes-one-ivory-art-wall.png",
+    "bytes": 2254503
+  },
+  {
+    "path": "assets/images/gilded-banyan-grove-in-a-bandra-bungalow.png",
+    "bytes": 2680889
+  },
+  {
+    "path": "assets/images/golden-framed-monsoon-forest-in-a-delhi-home.png",
+    "bytes": 2479209
+  },
+  {
+    "path": "assets/images/golden-konkan-seascape-in-a-worli-penthouse.png",
+    "bytes": 2253572
+  },
+  {
+    "path": "assets/images/golden-lotus-in-udaipur-haveli.png",
+    "bytes": 2446371
+  },
+  {
+    "path": "assets/images/img-2090.jpeg",
+    "bytes": 368492
+  },
+  {
+    "path": "assets/images/img-2091.jpeg",
+    "bytes": 931323
+  },
+  {
+    "path": "assets/images/img-2092.jpeg",
+    "bytes": 992351
+  },
+  {
+    "path": "assets/images/img-2093.jpeg",
+    "bytes": 644639
+  },
+  {
+    "path": "assets/images/indigo-pichwai-in-a-malabar-hill-salon.png",
+    "bytes": 2563346
+  },
+  {
+    "path": "assets/images/klimts-kiss-in-malabar-hill.png",
+    "bytes": 2491920
+  },
+  {
+    "path": "assets/images/logo.png",
+    "bytes": 144540
+  },
+  {
+    "path": "assets/images/malabar-hills-gilded-wildflower-meadow.png",
+    "bytes": 2579029
+  },
+  {
+    "path": "assets/images/meditative-geometry-in-malabar-hill.png",
+    "bytes": 2003016
+  },
+  {
+    "path": "assets/images/modern-worli-home-with-framed-pastels.png",
+    "bytes": 2677506
+  },
+  {
+    "path": "assets/images/monsoon-light-over-smoky-foothills.png",
+    "bytes": 2249447
+  },
+  {
+    "path": "assets/images/monsoon-salon-with-rosewood-framed-art.png",
+    "bytes": 2136012
+  },
+  {
+    "path": "assets/images/sapphire-court-a-noblewoman-in-gold.png",
+    "bytes": 1885847
+  },
+  {
+    "path": "assets/images/sea-facing-penthouse-with-high-set-pastel-art.png",
+    "bytes": 1942932
+  },
+  {
+    "path": "assets/images/seated-figure-in-ultramarine-and-rose.png",
+    "bytes": 2531174
+  },
+  {
+    "path": "assets/images/shrinathji-pichwai-sea-view-dining-room.png",
+    "bytes": 2618885
+  },
+  {
+    "path": "assets/images/south-mumbai-residence-with-monumental-abstraction.png",
+    "bytes": 2102844
+  },
+  {
+    "path": "assets/images/south-mumbai-salon-with-himalayan-landscape.png",
+    "bytes": 2289185
+  },
+  {
+    "path": "assets/images/terracotta-geometry-on-raw-linen.png",
+    "bytes": 2308763
+  },
+  {
+    "path": "assets/images/tidal-orbit-on-an-ivory-wall.png",
+    "bytes": 2653427
+  },
+  {
+    "path": "assets/images/worli-penthouse-royal-portrait.png",
+    "bytes": 2411703
+  },
+  {
+    "path": "assets/logo.png",
+    "bytes": 144540
+  },
+  {
+    "path": "data/artworks.js",
+    "bytes": 10775
+  },
+  {
+    "path": "data/artworks.json",
+    "bytes": 10748
+  },
+  {
+    "path": "data/muse.js",
+    "bytes": 1636
+  },
+  {
+    "path": "index.html",
+    "bytes": 4944
+  },
+  {
+    "path": "manifest.json",
+    "bytes": 166
+  },
+  {
+    "path": "package.json",
+    "bytes": 136
+  },
+  {
+    "path": "server.js",
+    "bytes": 875
+  },
+  {
+    "path": "styles.css",
+    "bytes": 9818
+  }
+]
